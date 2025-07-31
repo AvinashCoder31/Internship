@@ -13,3 +13,6 @@ venv/
 
 # System
 .DS_Store
+
+# other
+others_imp/
