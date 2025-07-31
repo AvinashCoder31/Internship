@@ -291,7 +291,7 @@ def main():
         # Optionally save to file
         save_plan = input("\nWould you like to save this plan to a file? (y/n): ")
         if save_plan.lower() == 'y':
-            filename = f"travel_plan_{result['destination'].replace(' ', '_')}.txt"
+            filename = f"travel_plan_{result['destination'].replace(' ', '_')}.md"
             with open(filename, 'w', encoding='utf-8') as f:
                 f.write(result["final_plan"])
             print(f"✅ Plan saved to {filename}")
