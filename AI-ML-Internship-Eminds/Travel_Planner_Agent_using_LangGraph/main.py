@@ -24,8 +24,8 @@ class TravelState(TypedDict):
     itinerary: str
     recommendations: str
     final_plan: str
-    weather_info: str  # New field for tool data
-    memory: dict       # New field for memory
+    weather_info: str 
+    memory: dict       
 
 # API Keys
 WEATHER_API_KEY = os.getenv("WEATHER_API_KEY")
@@ -273,8 +273,8 @@ def main():
             "itinerary": "",
             "recommendations": "",
             "final_plan": "",
-            "weather_info": "",  # New field
-            "memory": {}         # New field
+            "weather_info": "",  
+            "memory": {}         
         }
         
         # Run the workflow
