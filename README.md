@@ -21,7 +21,7 @@ The projects span across:
 
 ## 🗂️ Projects Structure
 
-### 1. 📚 [RAG with LangChain & Modern Stack](./RAG_App_using_langchain/)
+### 1. 📚 [RAG with LangChain & Modern Stack](./AI-ML-Internship-Eminds/RAG_App_using_langchain/)
 **Tech Stack**: LangChain | Groq LLaMA 3 | HuggingFace | ChromaDB | Flask
 
 A production-ready RAG pipeline demonstrating enterprise-level document processing:
@@ -35,7 +35,7 @@ A production-ready RAG pipeline demonstrating enterprise-level document processi
 
 ---
 
-### 2. 🧠 [Custom RAG Implementation](./RAG_App_without_framework/)
+### 2. 🧠 [Custom RAG Implementation](./AI-ML-Internship-Eminds/RAG_App_without_framework/)
 **Tech Stack**: FAISS | SentenceTransformers | Groq LLaMA 3 | Flask
 
 A from-scratch RAG system built without high-level frameworks:
@@ -49,7 +49,7 @@ A from-scratch RAG system built without high-level frameworks:
 
 ---
 
-### 3. 🌍 [Agentic Travel Planner](./travel_planner/)
+### 3. 🌍 [Agentic Travel Planner](./AI-ML-Internship-Eminds/Travel_Planner_Agent_using_LangGraph/)
 **Tech Stack**: LangGraph | Groq LLaMA | WeatherAPI | Geoapify | Memory Systems
 
 An intelligent travel planning agent demonstrating modern agentic AI:
