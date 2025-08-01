@@ -2,7 +2,7 @@
 ## Enterprise Minds, Puducherry
 
 > **Intern**: Avinash R  
-> **Duration**: [Add Duration]  
+> **Duration**: 07/07/2025 - 01/08/2025  
 > **Focus**: Retrieval-Augmented Generation (RAG) Systems & Agentic AI  
 > **GitHub**: [AvinashCoder31/Internship](https://github.com/AvinashCoder31/Internship/)
 
@@ -188,8 +188,8 @@ Each project builds upon concepts from the previous, creating a comprehensive le
 ## 🤝 Connect & Collaborate
 
 - **GitHub**: [@AvinashCoder31](https://github.com/AvinashCoder31)
-- **LinkedIn**: [Add your LinkedIn]
-- **Email**: [Add your email]
+- **LinkedIn**: [Avinash R](https://www.linkedin.com/in/avinash312006/)
+- **Email**: [Add your email](avinashraja31032006@gmail.com)
 
 ---
 
