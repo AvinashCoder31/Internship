@@ -2,3 +2,7 @@ langchain
 langchain-groq
 langgraph
 python-dotenv
+flask
+requests
+streamlit
+streamlit-option-menu

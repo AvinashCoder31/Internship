@@ -40,7 +40,7 @@ def retrieve_chunks(query: str, top_k=20):
 
 def generate_answer(query: str, context_chunks):
     context = "\n".join([f"- {chunk}" for chunk in context_chunks])
-    prompt = f"""You are a helpful assistant. Use only the given context to answer the question truthfully. Dont make up answers or hallucinate. If the answer is not in the context, say "I don't know".
+    prompt = f"""You are a helpful assistant. Use only the given context to answer the question truthfully. Dont make up answers or hallucinate. If the answer is not in the context, say "I don't know" and make the normal chat like conversation.
 
 Context:
 {context}
