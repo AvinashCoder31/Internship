@@ -142,9 +142,9 @@ git clone https://github.com/AvinashCoder31/Internship/
 cd Internship/
 
 # Choose a project and follow its README
-cd RAG_App_using_langchain/    # Enterprise RAG
-cd RAG_App_without_framework/  # Custom RAG
-cd travel_planner/             # Agentic AI
+cd RAG_App_using_langchain/                 # Enterprise RAG
+cd RAG_App_without_framework/               # Custom RAG
+cd Travel_Planner_Agent_using_LangGraph/    # Agentic AI
 ```
 
 ### API Keys Required
@@ -163,7 +163,7 @@ For someone following this internship journey:
 
 1. **Start with**: `RAG_App_using_langchain/` - Learn enterprise tools
 2. **Deep dive**: `RAG_App_without_framework/` - Understand fundamentals  
-3. **Advanced**: `travel_planner/` - Explore agentic AI
+3. **Advanced**: `Travel_Planner_Agent_using_LangGraph/` - Explore agentic AI
 
 Each project builds upon concepts from the previous, creating a comprehensive learning experience in modern AI development.
 
@@ -189,7 +189,7 @@ Each project builds upon concepts from the previous, creating a comprehensive le
 
 - **GitHub**: [@AvinashCoder31](https://github.com/AvinashCoder31)
 - **LinkedIn**: [Avinash R](https://www.linkedin.com/in/avinash312006/)
-- **Email**: [Add your email](avinashraja31032006@gmail.com)
+- **Email**: [avinashraja31032006@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=avinashraja31032006@gmail.com)
 
 ---
 
