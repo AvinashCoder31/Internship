@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 load_dotenv()
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 EMBEDDING_MODEL_NAME = "BAAI/bge-base-en-v1.5"
-LLM_MODEL_NAME = "llama3-8b-8192"
+LLM_MODEL_NAME = "openai/gpt-oss-120b"
 
 def initialize_llm():
     return ChatGroq(
