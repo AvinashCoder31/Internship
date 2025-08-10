@@ -145,8 +145,8 @@ def get_recommendations(state: TravelState) -> TravelState:
     
     1. 3 accommodation options (hotels/hostels/Airbnb)
     2. 5 must-try restaurants or food experiences
-    3. Transportation tips
-    4. Packing essentials
+    3. Transportation tips (must mention)
+    4. Packing essentials (must mention)
     
     Consider the traveler is interested in: {', '.join(state['interests'])}
     """
