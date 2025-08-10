@@ -73,7 +73,7 @@ tools = [get_real_weather, save_preferences]
 
 # Initialize Groq LLM
 llm = ChatGroq(
-    model="llama3-70b-8192",  # You can also use "llama3-8b-8192" for faster responses
+    model="openai/gpt-oss-120b",  # You can also use "llama3-8b-8192" for faster responses
     temperature=0.7
 )
 
