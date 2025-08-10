@@ -54,7 +54,7 @@ Answer:"""
     }
 
     payload = {
-        "model": "llama3-8b-8192",
+        "model": "openai/gpt-oss-120b",
         "messages": [
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": prompt}
